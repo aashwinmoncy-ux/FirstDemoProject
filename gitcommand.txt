@@ -15,3 +15,5 @@ in project folder
   --git log
   --git remote add origin 'repository path'
   --git push origin branchname(master/main)
+
+this is the first project

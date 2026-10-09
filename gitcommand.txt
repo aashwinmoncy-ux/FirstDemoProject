@@ -17,3 +17,4 @@ in project folder
   --git push origin branchname(master/main)
 
 this is the first project
+second project 
